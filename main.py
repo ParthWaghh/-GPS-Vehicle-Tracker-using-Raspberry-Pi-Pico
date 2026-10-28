@@ -1,5 +1,5 @@
 # GPS Vehicle Tracker using Raspberry Pi Pico
-# Author: Shubham Sharma
+# Author : Parth Wagh
 # B.Tech ECE, Matoshri College of Engineering, Nashik
 # Tech Stack: MicroPython, Neo-6M GPS, SIM800L GSM, RP2040
 
