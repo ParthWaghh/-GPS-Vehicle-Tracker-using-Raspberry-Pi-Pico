@@ -1,6 +1,6 @@
 # ═══════════════════════════════════════════════════
 # GPS Vehicle Tracker - Configuration File
-# Author: Shubham Sharma
+# Author: Parth Wagh
 # B.Tech ECE, Matoshri College of Engineering, Nashik
 # ═══════════════════════════════════════════════════
 
